@@ -48,13 +48,9 @@ source myvenv/Scripts/activate   # On Windows
 
 source myvenv/bin/activate       # On macOS/Linux
 
-3. Install Required Packages:
+3. Install Required Packages: pip install -r requirements.txt
 
-pip install -r requirements.txt
-
-4. Run the Project::
-
-uvicorn main:app --reload
+4. Run the Project: uvicorn main:app --reload
 
 Visit the API docs in your browser:
 
