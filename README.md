@@ -34,11 +34,8 @@ REST_API
 
 └── README.md             # Project documentation (this file)
 
-▶️ How to Run:-
-1. Clone the Repository:
-
+▶️ How to Run:- 1. Clone the Repository:
  i)git clone 
-
  ii)cd REST_API
 
 2. Set up Virtual Environment:
