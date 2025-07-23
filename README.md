@@ -35,20 +35,17 @@ REST_API
 └── README.md             # Project documentation (this file)
 
 ▶️ How to Run:-
-
 1. Clone the Repository:
 
-i)git clone 
+ i)git clone 
 
-ii)cd REST_API
+ ii)cd REST_API
 
 2. Set up Virtual Environment:
 
-python -m venv myvenv
+i)python -m venv myvenv
 
 source myvenv/Scripts/activate   # On Windows
-
-# OR
 
 source myvenv/bin/activate       # On macOS/Linux
 
