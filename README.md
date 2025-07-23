@@ -36,13 +36,13 @@ REST_API
 
 ▶️ How to Run:- 1. Clone the Repository:
 
- i)git clone 
+ i)git clone https://github.com/Khushbusaifi012/Fast_API.git
  
  ii)cd REST_API
 
 2. Set up Virtual Environment:
 
-i)python -m venv myvenv
+ i)python -m venv myvenv
 
 source myvenv/Scripts/activate   # On Windows
 
