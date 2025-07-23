@@ -58,7 +58,8 @@ Visit the API docs in your browser:
 
 📄 ReDoc: http://127.0.0.1:8000/redoc
 
-🧪 Sample Patient JSON
+🧪 Sample Patient JSON:
+
 {
   "p001": {
     "name": "Ananya verma",
