@@ -34,3 +34,46 @@ REST_API
 
 └── README.md             # Project documentation (this file)
 
+▶️ How to Run:-
+
+1. Clone the Repository:
+
+i)git clone 
+
+ii)cd REST_API
+
+2. Set up Virtual Environment:
+
+python -m venv myvenv
+
+source myvenv/Scripts/activate   # On Windows
+
+# OR
+
+source myvenv/bin/activate       # On macOS/Linux
+
+3. Install Required Packages:
+
+pip install -r requirements.txt
+
+4. Run the Project::
+
+uvicorn main:app --reload
+
+Visit the API docs in your browser:
+
+📄 Swagger UI: http://127.0.0.1:8000/docs
+
+📄 ReDoc: http://127.0.0.1:8000/redoc
+
+🧪 Sample Patient JSON
+{
+  "p001": {
+    "name": "Ananya verma",
+    "city": "Guwahati",
+    "age": 28,
+    "gender": "female",
+    "height": 1.65,
+    "weight": 90,
+    "bmi": 33.06
+  },
