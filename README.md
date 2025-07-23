@@ -5,9 +5,15 @@ This is a simple REST API built using Python to manage patient records. It reads
 
 🛠 Features:-
 1.Add new patient records
+
 2.Read patient records
+
 3.Update existing patient records
+
 4.Delete patient records
+
 5.Data stored in patients.json
+
 6.CLI or basic server (depending on main.py code)
+
 
