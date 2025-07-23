@@ -21,11 +21,16 @@ This is a simple REST API built using Python to manage patient records. It reads
 REST_API/
 │
 ├── myvenv/               # Virtual environment (Python packages installed here)
+
 │
 ├── main.py               # Main script for handling the API logic
+
 │
 ├── patients.json         # JSON file where all patient data is stored
+
 │
 ├── pyvenv.cfg            # Configuration for virtual environment
+
 │
 └── README.md             # Project documentation (this file)
+
